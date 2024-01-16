@@ -1,2 +1,2 @@
-# ai_learning_resources
+# AI Learning Resources
 This is a repo that contains all of my notes, tricks, workflows and references as I am learning to use generative AI tools
