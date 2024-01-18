@@ -18,3 +18,9 @@ Inline chat is probably the feature I use most often, after the copilot ghost te
   - You can use the `#` to choose more context to intentionally send to co-pilot.
   - You can have multiple conversation threads open at once.
   - When copilot doesn't have context on something, it will specifically ask you for more context. This is especially important when it's asking for debugging information as you don't want co-pilot accidentally scraping sensitive information and sending it to Github. Hence why it asks you.
+- Options added to quick fix
+
+- Sparkly icon shows places where copilot can suggest. 
+- Best one is commit messages.
+- Where are all of the right click options?
+- 
