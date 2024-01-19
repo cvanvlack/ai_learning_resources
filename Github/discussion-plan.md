@@ -1,0 +1,18 @@
+# Stream Discussion Plan
+- Warm up the crowd a bit and talk back and forth with chat.
+- Questions to ask:
+  - How many of you are confused by how to use the latest AI tools?
+  - How many of you are actively learning how to use AI tools, either in your spare time or at work?
+  - What are the most common tools that you're using?
+  - What are the most common problems you're running into?
+    - I'm struggling to figure out how to get consistent results from the tools.
+    - I'm struggling to figure out how to get the tools to do what I want.
+    - Lots of times I don't know what the tools are good for and what is an unreasonable expectation. 
+  - What tools do you want to learn more about?
+  - What are tools that you've heard about but haven't had a chance to try yet?
+- Introduce the topic of the stream
+  - I've been struggling with how to take advantage of these tools. I am certain that they are super high leverage, but they're not intuitive to me to learn.
+  - The tools are changing so fast that it's hard to keep up.
+  - I wanted a place to collect everything I've learned.
+  - I felt like I needed some extra accountability to keep me going.
+  - Because I keep doing such crazy deep dives, it felt like I should be sharing it with others.
